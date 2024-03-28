@@ -1,0 +1,11 @@
+INSERT INTO Musicas (id,musica,artista,idioma,duração)
+VALUES
+(1,'A voz', 'José Jr','português', '5 min'),
+(2,'Cant take my eyes of you','Frankie Valli','inglês','4 min'),
+(3,'Universo das coisas que desconheço','Lagum e ANAVITORIA','portugues','3 min'),
+(4,'Golden thing','Cody Simpson','ingles','4 min'),
+(5,'Terra','ANAVITORIA','portugues','4 min'),
+(6,'samba','Lagum', 'português','2 min'),
+(7,'a gente nunca conversou (ei moça)','Lagum','
+
+ 
